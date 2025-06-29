@@ -1,4 +1,4 @@
-# PASSWORD CONFIRMATION USING WHILE LOOP
+# PASSWORD CONFIRMATION USING WHILE LOOP #
 # This program will ask the user to enter a password and confirm it.
 # If the passwords match, it will print a success message.# If the passwords do not match, it will ask the user to try again.
 # The user will have a limited number of attempts to enter the correct password.
