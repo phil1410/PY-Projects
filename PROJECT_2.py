@@ -1,4 +1,5 @@
 # A PYTHON BANKING PROGRAM #
+# This program allows users to check their balance, deposit money, and withdraw money.
 print("banking program\n".upper())
 
 def show_balance():
