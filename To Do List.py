@@ -53,4 +53,4 @@ while True:
 
 print(Fore.BLUE + "\nThank you for using the To Do List Application!" + Fore.RESET)
 
-# SAMPLE TASKS - House Chores - Jog - Laundry - Read -  Work
+# SAMPLE TASK - House Chores - Jog - Laundry - Read -  Work
