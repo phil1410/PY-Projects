@@ -6,7 +6,6 @@
 from colorama import Fore # type: ignore
 limits = 3
 count = 0
-
 while count < limits:
     # print(f'{Fore.BLUE}')
     count += 1
